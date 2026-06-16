@@ -36,11 +36,6 @@
 - System Design
 - Full-Stack Web Development
 
-### 📂 Featured Projects
-- ♟️ Text-Based Chess Game (Python)
-- 🤖 Desktop Assistant using Python
-- 🎫 E-Pass Management System
-- 🌐 Flask & Django Web Applications
 
 ### 📈 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=8bhi&show_icons=true)
