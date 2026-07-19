@@ -1,47 +1,48 @@
-## Hi there 👋, I'm Abhinav
+<div align="center">
 
-<!--
-**8bhi/8bhi** is a ✨ special ✨ repository because its `README.md` appears on your GitHub profile.
--->
+# 👋 Hi, I'm Abhinav S Nair
 
-### 👨‍💻 About Me
-- 🎓 Computer Science & Engineering Student
-- 💼 Former Python Developer with 3 years of industry experience
-- 🌱 Currently exploring Backend Development, DSA, and Software Architecture
-- 🔭 Building projects with Python, Flask, Django, and REST APIs
-- ⚡ Passionate about problem-solving and creating scalable applications
+### 💻 Computer Science & Engineering Student
 
-### 🛠️ Tech Stack
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Backend+Development+%7C+DSA+%7C+Software+Architecture;Building+useful+and+scalable+software;Learning+something+new+every+day+%F0%9F%9A%80" />
 
-#### Languages
-- Python
-- Java
-- SQL
-- HTML
-- CSS
-- JavaScript
-
-#### Frameworks & Tools
-- Django
-- Flask
-- REST APIs
-- MySQL
-- Git & GitHub
-- Postman
-- Jira
-
-### 🚀 Current Focus
-- Backend Development
-- Data Structures & Algorithms
-- System Design
-- Full-Stack Web Development
-
-
-### 📈 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=8bhi&show_icons=true)
-
-### 📫 Connect With Me
-- Email: abhisnair2006@gmail.com
+</div>
 
 ---
-*"Turning ideas into reliable software solutions."* 🚀
+
+## 🧑‍💻 About Me
+
+- 🎓 Computer Science & Engineering student
+- ⚙️ Learning **Backend Development, DSA & Software Architecture**
+- 🚀 Interested in building useful software
+- 🧠 Curious about how systems work behind the scenes
+
+---
+
+## 🛠️ Tech Stack
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=c,java,python,js,html,css,react,nodejs,mysql,git,github" />
+</p>
+
+---
+
+## 📊 GitHub Activity
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=8bhi&show_icons=true&hide_title=true&hide_rank=true&theme=tokyonight&hide_border=true&include_all_commits=true" width="48%"/>
+
+<img src="https://github-readme-streak-stats.demolab.com?user=8bhi&theme=tokyonight&hide_border=true" width="48%"/>
+
+</div>
+
+---
+
+## 🎯 Current Focus
+
+```text
+DSA              ███████░░░  Learning
+Backend          ██████░░░░░  Building
+System Design    ████░░░░░░░  Exploring
+Projects         ████████░░░  Creating
