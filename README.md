@@ -25,24 +25,30 @@
 <img src="https://skillicons.dev/icons?i=c,java,python,js,html,css,react,nodejs,mysql,git,github" />
 </p>
 
----
-
 ## 📊 GitHub Activity
 
-<div align="center">
+<div>
 
-<img src="https://github-readme-stats.vercel.app/api?username=8bhi&show_icons=true&hide_title=true&hide_rank=true&theme=tokyonight&hide_border=true&include_all_commits=true" width="48%"/>
 
-<img src="https://github-readme-streak-stats.demolab.com?user=8bhi&theme=tokyonight&hide_border=true" width="48%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=8bhi&theme=tokyonight" />
 
 </div>
 
----
+<br>
+
+<div align="center">
+
+🖥️ **Operating Systems** &nbsp; • &nbsp;
+⚙️ **Backend Development** &nbsp; • &nbsp;
+🧠 **DSA** &nbsp; • &nbsp;
+🏗️ **Software Architecture**
+
+</div>
 
 ## 🎯 Current Focus
 
 ```text
-DSA              ███████░░░  Learning
+DSA              ████░░░░░░  Learning
 Backend          ██████░░░░░  Building
 System Design    ████░░░░░░░  Exploring
 Projects         ████████░░░  Creating
